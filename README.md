@@ -23,3 +23,10 @@ Let's Connect! 🤝
 -----------------
 
 If you share my passion for technology and cloud architecture, let's connect! Follow me on GitHub to stay updated on my latest projects and contributions, and feel free to reach out to me if you have any questions or ideas. Let's create something awesome together! 💻🌟
+
+<p>Connect with me on:</p>
+<ul>
+  <li><a href="https://twitter.com/eltechno" target="_blank">🐦 Twitter</a></li>
+  <li><a href="https://pauloalvarado.com target="_blank">💻 My Personal Page</a></li>
+</ul>
+
