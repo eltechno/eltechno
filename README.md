@@ -16,6 +16,9 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=raspberry-pi&logoColor=white&style=flat)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat)
 ![MacOS](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white&style=flat)
+![Security Information](https://img.shields.io/badge/-Security%20Information-009AC7?logo=security&logoColor=white&style=flat)
+![3D Printing](https://img.shields.io/badge/-3D%20Printing-FF9933?logo=thingiverse&logoColor=white&style=flat)
+
 
 
 Welcome to my GitHub profile, where I showcase my passion for all things tech and my expertise in 🌥️Cloud Architecture and 🛡️information security. 📱🤖🥧🐧
