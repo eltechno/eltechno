@@ -42,10 +42,10 @@ I believe that the cloud is the future of computing, and I'm committed to helpin
 
 ### Technical Skills
 
-- Python ![Python](https://progress-bar.dev/25/?title=Python&color=blue)
-- Cloud ![Cloud](https://progress-bar.dev/50/?title=Cloud&color=blue)
-- Security Information ![Security](https://progress-bar.dev/25/?title=Security%20Information&color=blue)
-- Networking ![Networking](https://progress-bar.dev/25/?title=Networking&color=blue)
+- Python ![Python](https://progress-bar.dev/50/?title=Python&color=blue)
+- Cloud ![Cloud](https://progress-bar.dev/75/?title=Cloud&color=blue)
+- Security Information ![Security](https://progress-bar.dev/65/?title=Security%20Information&color=blue)
+- Networking ![Networking](https://progress-bar.dev/85/?title=Networking&color=blue)
 
 Let's Connect! 🤝
 -----------------
