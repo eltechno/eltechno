@@ -27,6 +27,8 @@ If you share my passion for technology and cloud architecture, let's connect! Fo
 <p>Connect with me on:</p>
 <ul>
   <li><a href="https://twitter.com/eltechno" target="_blank">🐦 Twitter</a></li>
-  <li><a href="https://pauloalvarado.com target="_blank">💻 My Personal Page</a></li>
+  <li><a href="https://pauloalvarado.com" target="_blank">💻 Personal Page</a></li>
+  <li><a href="https://www.credly.com/badges/54985f3e-7925-4e3a-973a-78ea7f8860d0/public_url" target="_blank">🏆 Credly Certification</a></li>
 </ul>
+
 
