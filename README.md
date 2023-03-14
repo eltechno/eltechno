@@ -38,12 +38,14 @@ What I Believe 🙏
 
 I believe that the cloud is the future of computing, and I'm committed to helping organizations leverage its power to achieve their goals. I believe in the power of teamwork, collaboration, and continuous learning, and I'm always looking for ways to grow and improve my skills.
 
-<!-- Skills chart -->
-<div style="text-align: center;">
-  <img src="https://chart.apis.google.com/chart?cht=p&chs=300x150&chco=1BA0D7,607078,009AC7,00BFFF&chd=t:25,50,25,25&chl=Python|Cloud|Security%20Information|Networking" alt="Skills chart">
-  <br>
-  <small>My skillset in a pie chart</small>
-</div>
+## Skills
+
+### Technical Skills
+
+- Python ![Python](https://progress-bar.dev/25/?title=Python&color=blue)
+- Cloud ![Cloud](https://progress-bar.dev/50/?title=Cloud&color=blue)
+- Security Information ![Security](https://progress-bar.dev/25/?title=Security%20Information&color=blue)
+- Networking ![Networking](https://progress-bar.dev/25/?title=Networking&color=blue)
 
 Let's Connect! 🤝
 -----------------
