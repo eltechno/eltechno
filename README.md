@@ -1,5 +1,8 @@
 Paulo Cesar Alvarado
 ‍💻 Cloud Architect
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-orange?logo=amazon-aws&style=flat-square)
+![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect-yellow?logo=amazon-aws&style=flat-square)
+
 ==========================================
 ## Skills & Technologies
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
