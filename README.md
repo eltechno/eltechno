@@ -1,4 +1,19 @@
 👨 Paulo Cesar Alvarado !
+## Skills & Technologies
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
+![Asterisk](https://img.shields.io/badge/-Asterisk-2C3E50?logo=asterisk&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat)
+![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white&style=flat)
+![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?logo=cisco&logoColor=white&style=flat)
+![Networking](https://img.shields.io/badge/-Networking-00BFFF?logo=cisco&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?logo=python&logoColor=white&style=flat)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=raspberry-pi&logoColor=white&style=flat)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat)
+![MacOS](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white&style=flat)
 ‍💻 Cloud Architect 👨‍💼
 ==========================================
 
@@ -30,22 +45,6 @@ If you share my passion for technology and cloud architecture, let's connect! Fo
   <li><a href="https://pauloalvarado.com" target="_blank">💻 Personal Page</a></li>
   <li><a href="https://www.credly.com/badges/54985f3e-7925-4e3a-973a-78ea7f8860d0/public_url" target="_blank">🏆 AWS Certified Cloud Practitioner</a></li>
 </ul>
-
-## Skills & Technologies
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
-![Asterisk](https://img.shields.io/badge/-Asterisk-2C3E50?logo=asterisk&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat)
-![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white&style=flat)
-![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?logo=cisco&logoColor=white&style=flat)
-![Networking](https://img.shields.io/badge/-Networking-00BFFF?logo=cisco&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?logo=python&logoColor=white&style=flat)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=raspberry-pi&logoColor=white&style=flat)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat)
-![MacOS](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white&style=flat)
 
 
 
