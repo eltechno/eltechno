@@ -1,4 +1,6 @@
 👨 Paulo Cesar Alvarado !
+‍💻 Cloud Architect 👨‍💼
+==========================================
 ## Skills & Technologies
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
@@ -14,8 +16,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=raspberry-pi&logoColor=white&style=flat)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat)
 ![MacOS](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white&style=flat)
-‍💻 Cloud Architect 👨‍💼
-==========================================
+
 
 Welcome to my GitHub profile, where I showcase my passion for all things tech and my expertise in 🌥️Cloud Architecture and 🛡️information security. 📱🤖🥧🐧
 
