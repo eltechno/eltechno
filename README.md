@@ -1,4 +1,4 @@
-##Paulo Cesar Alvarado
+Paulo Cesar Alvarado
 ‍💻 Cloud Architect
 ==========================================
 ## Skills & Technologies
