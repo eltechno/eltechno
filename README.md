@@ -45,13 +45,6 @@ I believe that the cloud is the future of computing, and I'm committed to helpin
   <small>My skillset in a pie chart</small>
 </div>
 
-## Skills Chart
-
-![Skills chart](https://chart.apis.google.com/chart?cht=p&chs=300x150&chco=1BA0D7,607078,009AC7,00BFFF&chd=t:25,50,25,25&chl=Python|Cloud|Security%20Information|Networking)
-
-My skillset in a pie chart
-
-
 Let's Connect! 🤝
 -----------------
 
