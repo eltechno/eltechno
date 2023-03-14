@@ -1,5 +1,5 @@
-👨 Paulo Cesar Alvarado !
-‍💻 Cloud Architect 👨‍💼
+##Paulo Cesar Alvarado
+‍💻 Cloud Architect
 ==========================================
 ## Skills & Technologies
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
