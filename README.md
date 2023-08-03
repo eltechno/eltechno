@@ -1,8 +1,11 @@
 # Paulo Cesar Alvarado
-## Cloud Architect
+## AWS Solution Architect / Cloud Engineer
 
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-orange?logo=amazon-aws&style=flat-square)
 ![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect-yellow?logo=amazon-aws&style=flat-square)
+![Agile Education Scrum Master](https://img.shields.io/badge/Agile%20Education-Scrum%20Master-blue?logo=scrumalliance&style=flat-square)
+![Agile Education Product Owner](https://img.shields.io/badge/Agile%20Education-Product%20Owner-green?logo=scrumalliance&style=flat-square)
+
 
 ==========================================
 ## Skills & Technologies
